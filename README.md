@@ -75,12 +75,14 @@ L'application utilise un code couleur spécifique pour identifier rapidement la 
     💎 OC : Océanie
 
 INSTALLATION : 
+
     $ git clone https://github.com/F4FYF/HamSuite
     $ cd HamSuite
     $ chmod +x build_dx.sh
     $ ./build_dx.sh
 
 LANCEMENT DE L'APPLICATION :
+
     $ ./dist/dxcluster_f4fyf
     ou directement dans HamSuite :
     $ python3 dxcluster_f4fyf.py
