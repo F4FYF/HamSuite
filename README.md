@@ -80,4 +80,9 @@ L'application utilise un code couleur spécifique pour identifier rapidement la 
     $ chmod +x build_dx.sh
     $ ./build_dx.sh
 
+    LANCEMENT DE L'APPLICATION :
+    $ ./dist/dxcluster_f4fyf
+    ou directement dans HamSuite :
+    $ python3 dxcluster_f4fyf.py
+
 73 de Jeff F4FYF
