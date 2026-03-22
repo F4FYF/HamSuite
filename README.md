@@ -74,4 +74,10 @@ L'application utilise un code couleur spécifique pour identifier rapidement la 
 
     💎 OC : Océanie
 
+    INSTALLATION : 
+    $ git clone https://github.com/F4FYF/HamSuite
+    $ cd HamSuite
+    $ chmod +x build_dx.sh
+    $ ./build_dx.sh
+
 73 de Jeff F4FYF
